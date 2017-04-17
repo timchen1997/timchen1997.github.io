@@ -2,6 +2,7 @@
 layout: post
 title:  "About this blog"
 date:   2017-04-16 14:16:00 +0800
+updatetime:
 categories: jekyll digression
 description: "说一点废话，权当作是开场白"
 ---
