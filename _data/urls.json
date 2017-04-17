@@ -6,6 +6,11 @@
     "layout": "post"
   },
   {
+    "text": "Category",
+    "url": "/category/",
+    "icon": "fa-folder"
+  },
+  {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
